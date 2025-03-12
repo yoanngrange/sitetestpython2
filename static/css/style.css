@@ -1,0 +1,147 @@
+
+.content {
+  margin-top: 4rem;
+}
+
+
+.button {
+  position: fixed;
+  right: 2rem;
+}
+
+.btn-return{
+  margin-left: 2rem;
+}
+
+.gradient-mario{
+  background: rgb(249,4,0);
+  background: -moz-linear-gradient(90deg, rgba(249,4,0,1) 0%, rgba(32,234,0,1) 33%, rgba(255,225,0,1) 66%, rgba(2,126,255,1) 100%);
+  background: -webkit-linear-gradient(90deg, rgba(249,4,0,1) 0%, rgba(32,234,0,1) 33%, rgba(255,225,0,1) 66%, rgba(2,126,255,1) 100%);
+  background: linear-gradient(90deg, rgba(249,4,0,1) 0%, rgba(32,234,0,1) 33%, rgba(255,225,0,1) 66%, rgba(2,126,255,1) 100%);
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#f90400",endColorstr="#027eff",GradientType=1);
+}
+
+.gradient-minecraft{
+  background: rgb(151,109,76);
+  background: -moz-linear-gradient(0deg, rgba(151,109,76,1) 87%, rgba(98,187,75,1) 100%);
+  background: -webkit-linear-gradient(0deg, rgba(151,109,76,1) 87%, rgba(98,187,75,1) 100%);
+  background: linear-gradient(0deg, rgba(151,109,76,1) 87%, rgba(98,187,75,1) 100%);
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#976d4c",endColorstr="#62bb4b",GradientType=1);
+}
+
+.gradient-zelda-Totk{
+  background: rgb(249,247,220);
+  background: -moz-radial-gradient(circle, rgba(249,247,220,1) 0%, rgba(73,212,156,1) 48%, rgba(249,247,220,1) 76%);
+  background: -webkit-radial-gradient(circle, rgba(249,247,220,1) 0%, rgba(73,212,156,1) 48%, rgba(249,247,220,1) 76%);
+  background: radial-gradient(circle, rgba(249,247,220,1) 0%, rgba(73,212,156,1) 48%, rgba(249,247,220,1) 76%);
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#f9f7dc",endColorstr="#f9f7dc",GradientType=1);
+}
+
+.gradient-zelda-Botw{
+  background: rgb(185,159,101);
+  background: -moz-linear-gradient(90deg, rgba(185,159,101,1) 15%, rgba(122,146,151,1) 30%, rgba(185,159,101,1) 45%);
+  background: -webkit-linear-gradient(90deg, rgba(185,159,101,1) 15%, rgba(122,146,151,1) 30%, rgba(185,159,101,1) 45%);
+  background: linear-gradient(90deg, rgba(185,159,101,1) 15%, rgba(122,146,151,1) 30%, rgba(185,159,101,1) 45%);
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#b99f65",endColorstr="#b99f65",GradientType=1);
+}
+
+.imgg{
+  border: 13px;
+  border-style: ridge;
+  margin: 20px;
+  padding: 2;
+  border-color:#dbca12 ;
+}
+
+.immg{
+  width: 100%;
+}
+
+.iimg{
+  width: 90%;
+  display: block;
+
+  margin: auto;
+}
+
+.taille{
+  width: 636px;
+  margin: 20px;
+}
+
+.pays-de-mario-odyssey{
+  border-style: ridge;
+}
+
+.couleur-de-lien{
+  color: #444444;
+}
+
+.bg{
+  width: 100%;
+  z-index: -2;
+  position: fixed;
+}
+
+.zelda{
+  display: center;
+  width: 200%;
+  position: fixed;
+  z-index: -1;
+}
+
+.decal{
+  margin-left: 1rem;
+}
+
+.acc{
+  width: 720px;
+}
+
+.bodyy {
+  font-family: Arial, sans-serif;
+  line-height: 1.6;
+  background-color: #f0f0f0;
+  margin: 20px;
+  color: #333;
+  font-size: 20px;
+}
+.headerr {
+  text-align: center;
+  padding: 20px;
+}
+.h11 {
+  color: #4CAF50;
+  text-align: center;
+  font-size: 36px;
+}
+.sectionn {
+  background: white;
+  padding: 20px;
+  margin: 10px 0;
+  border-radius: 5px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  padding: 15px;
+  margin-bottom: 20px;
+  border-radius: 8px;
+  margin-bottom: 30px;
+  border-left: 5px solid #4CAF50;
+}
+.footerr {
+  text-align: center;
+  margin-top: 20px;
+}
+
+.h22 {
+  color: #4CAF50;
+  font-size: 28px;
+  margin-top: 30px;
+}
+
+.aligne{
+  margin-left: 95px;
+}
+
+a:has(.home-card){
+ text-decoration: none;
+}
